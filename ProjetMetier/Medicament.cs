@@ -11,5 +11,6 @@ namespace ProjetMetier
         private int idMedoc;
         private string nomMedoc;
         private double prixMedoc;
+        private int test;
     }
 }
